@@ -1,0 +1,11 @@
+.section{
+    width: 90%;
+    height: 50px;
+    border: 1px solid gray;
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
